@@ -12,7 +12,7 @@ const Projects = () => {
       link: "https://pocketlab007.netlify.app/",
       github: "https://github.com/TaeHoonHer/23_Ministry-of-Oceans-and-Fisheries-Project"
     },
-    {
+    { 
       title: "환경 보호 플랫폼 제작",
       period: "2024.03 ~ 2024.06",
       team: "6인",
