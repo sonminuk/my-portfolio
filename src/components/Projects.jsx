@@ -10,7 +10,7 @@ const Projects = () => {
       description: "포켓로그 게임 공략 사이트는 포켓몬과 관련된 다양한 정보를 제공하는 웹 사이트",
       stack: ["React.js", "Firebase", "Python"],
       link: "https://pocketlab007.netlify.app/",
-      github: "https://github.com/TaeHoonHer/23_Ministry-of-Oceans-and-Fisheries-Project"
+      github: "https://github.com/sonminuk/PoketLab.git"
     },
     { 
       title: "환경 보호 플랫폼 제작",
